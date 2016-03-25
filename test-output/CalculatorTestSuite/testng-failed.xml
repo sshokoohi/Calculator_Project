@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [CalculatorTestSuite]">
+  <test name="CalculatorTest(failed)">
+    <classes>
+      <class name="com.EveryoneCounts.TC_Calculator">
+        <methods>
+          <include name="setUp"/>
+          <include name="BeforeClass"/>
+          <include name="afterClass"/>
+          <include name="tearDown"/>
+          <include name="afterTest"/>
+          <include name="testMultipication"/>
+        </methods>
+      </class> <!-- com.EveryoneCounts.TC_Calculator -->
+    </classes>
+  </test> <!-- CalculatorTest(failed) -->
+</suite> <!-- Failed suite [CalculatorTestSuite] -->

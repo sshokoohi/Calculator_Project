@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="CalculatorTestSuite" parallel="false">
+  
+  <test name="CalculatorTest">
+    <classes>
+      <class name="com.EveryoneCounts.TC_Calculator"/>
+    </classes>
+  </test> 
+  
+  
+  
+</suite> <!-- Test -->

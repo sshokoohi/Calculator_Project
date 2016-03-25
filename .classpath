@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/4.10/junit-4.10.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/testng/testng/6.9.9/testng-6.9.9.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/beust/jcommander/1.48/jcommander-1.48.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/ant/ant/1.7.0/ant-1.7.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/ant/ant-launcher/1.7.0/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/yaml/snakeyaml/1.15/snakeyaml-1.15.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar"/>
+	<classpathentry kind="var" path="M2_REPO-"/>
+	<classpathentry kind="var" path="M2_REPO_seleniumJars"/>
+	<classpathentry kind="lib" path="C:/Selenium/alljars/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/alljars/selenium-server-standalone-2.48.2.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
